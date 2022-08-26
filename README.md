@@ -1,5 +1,5 @@
 <div> 
-  <img align="right" height="150" width="200"src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-22.gif"> 
+ 👾 <img align="right" height="150" width="200"src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-22.gif"> 👾
 </div>
 
 ##  Hi, I'm João Marcos Lacreda and welcome to my profile  
