@@ -1,13 +1,13 @@
 <div> 
-  <img align="right" height="150" width="150"src="https://64.media.tumblr.com/2edbfa297c85856e71062efbc31dd054/tumblr_nvnwzhZa9W1ugoy51o1_500.gif"> 
+  <img align="right" height="150" width="150"src="https://www.tumblr.com/blog/view/karolsimental/644144369522409472?source=share"> 
 </div>
 
-## ✨ Hi, I'm Fernanda Souza and welcome to my profile ✨ 
+##  Hi, I'm João Marcos Lacreda and welcome to my profile  
 
 <!--INFORMATIONS-->
 <section >
   <div>
-    I'm student of System Information, I'm beginner developer in front-end and web, I have 23 years and processing technique in TIVIC.<br>
+    I'm student of System Information, I'm beginner developer in front-end, I have 23 years.<br>
     • Living in Vitória da Conquista, Bahia- Brazil
   </div>
 </section>
@@ -27,7 +27,7 @@
 <!--GITHUB STATS-->  
   <div> 
    <br> <a href="https://github.com/effyus">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=effyus&theme=onedark"></a>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosls&theme=clean"></a>
    <br> <a href="http://github.com/effyus">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effyus&hide=html&layout=compact&theme=onedark">
   </div>
