@@ -38,16 +38,12 @@
 ## Contact
 <section>
    <div>
-      <a href="fernandasouzadev@gmail.com">
+      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">
       <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
   </div> 
     <div> 
-     <a href="https://www.linkedin.com/in/fernanda-souza-silva-santos-888858214/">
+     <a href="https://www.linkedin.com/in/joaomarcos99/">
      <img align="left"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github"></a> 
-  </div>
-  <div>
-     <a href="https://www.instagram.com/effyus/">
-        <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>   
   </div>
 </section>
 
