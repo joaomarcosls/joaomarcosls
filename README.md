@@ -27,7 +27,7 @@
 <!--GITHUB STATS-->  
   <div> 
    <br> <a href="https://github.com/effyus">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosls&theme=clean"></a>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosls&theme=blue"></a>
    <br> <a href="http://github.com/effyus">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effyus&hide=html&layout=compact&theme=onedark">
   </div>
