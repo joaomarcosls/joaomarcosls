@@ -30,7 +30,7 @@
    <br> <a href="https://github.com/joaomarcosls">
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosls&theme=blue"></a>
    <br> <a href="http://github.com/joaomarcosls">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosls&hide=html&layout=compact&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosls&hide=html&layout=compact&theme=blue">
   </div>
 </section>  
   
