@@ -27,9 +27,9 @@
   
 <!--GITHUB STATS-->  
   <div> 
-   <br> <a href="https://github.com/effyus">
+   <br> <a href="https://github.com/joaomarcosls">
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosls&theme=blue"></a>
-   <br> <a href="http://github.com/effyus">
+   <br> <a href="http://github.com/joaomarcosls">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosls&hide=html&layout=compact&theme=onedark">
   </div>
 </section>  
@@ -39,7 +39,7 @@
 ## Contact
 <section>
    <div>
-      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"marcoslacerda99.jmls@gmail.com" >
+      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new>
       <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
   </div> 
     <div> 
