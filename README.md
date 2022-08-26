@@ -1,5 +1,5 @@
 <div> 
-  <img align="right" height="150" width="150"src="https://www.tumblr.com/blog/view/karolsimental/644144369522409472?source=share"> 
+  <img align="right" height="150" width="150"src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-22.gif"> 
 </div>
 
 ##  Hi, I'm João Marcos Lacreda and welcome to my profile  
