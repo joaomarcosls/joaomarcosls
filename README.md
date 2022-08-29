@@ -7,7 +7,7 @@
 <!--INFORMATIONS-->
 <section >
   <div>
-    I'm student of System Information, I'm beginner developer in front-end, I have 23 years.<br>
+   I'm a System Information student, I'm a beginner developer, I'm 23 years old, I'm always looking to improve my codes and methodologies.<br>
     • Living in Vitória da Conquista, Bahia- Brazil
   </div>
 </section>
